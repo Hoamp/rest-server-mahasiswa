@@ -1,3 +1,3 @@
-## sebuah sistem api sederhana
+## restfull api mahasiswa
 
-restfull api untuk data mahasiswa
+aplikasi berjalan dengan menambahkan database `tess`
